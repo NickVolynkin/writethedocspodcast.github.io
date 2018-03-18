@@ -22,7 +22,7 @@ mp4_url: http://writethedocspodcast.org/video/wtdpodcast_episode_13_postman.mp4
 mp4_length: 332252334
 mp4_thumbnail: assets/img/episodethumbs/episode13thumberic.png
 ---
-In this episode, we chat with Abhinav Asthana (founder and CEO of Postman) to explore how [Postman](hhttps://www.getpostman.com/),
+In this episode, we chat with Abhinav Asthana (founder and CEO of Postman) to explore how [Postman](https://www.getpostman.com/),
   a REST client, can be used to create, collaborate, and publish API documentation.
 If you work with API documentation, you've probably used Postman to make and test API requests.
 But you can do also a lot more with Postman.
@@ -36,7 +36,7 @@ Check out [Postman's API Network](https://www.getpostman.com/api-network/)
 
 For more information, see the following:
 
-* [Postman](hhttps://www.getpostman.com/)
+* [Postman](https://www.getpostman.com/)
 * [Run in Postman button](https://www.getpostman.com/docs/postman_for_publishers/run_button/creating_run_button)
 * [Postman API Network](https://www.getpostman.com/api-network/)
 * [Publishing docs with Postman](https://www.getpostman.com/docs/postman/api_documentation/publishing_public_docs)
